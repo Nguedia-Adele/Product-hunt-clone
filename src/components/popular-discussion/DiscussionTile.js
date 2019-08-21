@@ -12,12 +12,12 @@ class DiscussionTile extends React.Component {
 				<DiscussionHeader/>
 
 				<div className="d-flex mt-2">
-					<div className="my-auto">
+					<div className="my-auto pr-4">
 						<a href="/post">
-							<p className="discussion-title">Name a place you've never visited but would love to go</p>
+							<p className="discussion-title">Makers, what are you working on this week? (w/c August 19)</p>
 						</a>
 						<a href="/post">
-							<p>Mine is Iceland. Curious to hear yours.</p>
+							<p className="text-muted">Hi Makers! I'm working on some new recordings of Product Hunt radio and community engagement and growth around Makers.</p>
 						</a>
 					</div>
 					<div className="ml-auto"><Upvote/></div>
