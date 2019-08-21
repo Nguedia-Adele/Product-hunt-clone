@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Product-hunt-clone/static/css/main.f934eea0.chunk.css",
-    "main.js": "/Product-hunt-clone/static/js/main.b6436d8c.chunk.js",
-    "main.js.map": "/Product-hunt-clone/static/js/main.b6436d8c.chunk.js.map",
+    "main.css": "/Product-hunt-clone/static/css/main.72bdfe1e.chunk.css",
+    "main.js": "/Product-hunt-clone/static/js/main.c7b1864f.chunk.js",
+    "main.js.map": "/Product-hunt-clone/static/js/main.c7b1864f.chunk.js.map",
     "runtime~main.js": "/Product-hunt-clone/static/js/runtime~main.512c9a1e.js",
     "runtime~main.js.map": "/Product-hunt-clone/static/js/runtime~main.512c9a1e.js.map",
     "static/css/2.d7a94725.chunk.css": "/Product-hunt-clone/static/css/2.d7a94725.chunk.css",
     "static/js/2.a7805927.chunk.js": "/Product-hunt-clone/static/js/2.a7805927.chunk.js",
     "static/js/2.a7805927.chunk.js.map": "/Product-hunt-clone/static/js/2.a7805927.chunk.js.map",
     "index.html": "/Product-hunt-clone/index.html",
-    "precache-manifest.9bf90ffe94eafd7698241861933023b8.js": "/Product-hunt-clone/precache-manifest.9bf90ffe94eafd7698241861933023b8.js",
+    "precache-manifest.372c9446650b924dac8580923cd1a1ef.js": "/Product-hunt-clone/precache-manifest.372c9446650b924dac8580923cd1a1ef.js",
     "service-worker.js": "/Product-hunt-clone/service-worker.js",
     "static/css/2.d7a94725.chunk.css.map": "/Product-hunt-clone/static/css/2.d7a94725.chunk.css.map",
-    "static/css/main.f934eea0.chunk.css.map": "/Product-hunt-clone/static/css/main.f934eea0.chunk.css.map",
+    "static/css/main.72bdfe1e.chunk.css.map": "/Product-hunt-clone/static/css/main.72bdfe1e.chunk.css.map",
     "static/media/logo.png": "/Product-hunt-clone/static/media/logo.234c9290.png"
   }
 }
