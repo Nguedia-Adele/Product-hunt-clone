@@ -6,7 +6,8 @@ class Comment extends React.Component {
 			<div>
 				<button style={{border:"1px solid #e8e8e8",
 					backgroundColor:"transparent",
-					padding:"3px 7px",
+					color: "#6c757d",
+					padding:"2px 6px",
 					borderRadius:"3px"
 				}}>comment</button>
 			</div>

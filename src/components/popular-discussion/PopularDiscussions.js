@@ -5,7 +5,7 @@ class PopularDiscussions extends React.Component {
 	render() {
 		return(
 			<div>
-				<p>POPULAR DISCUSSIONS</p>
+				<p className="text-muted">POPULAR DISCUSSIONS</p>
 				<DiscussionTile/>
 			</div>
 		)
