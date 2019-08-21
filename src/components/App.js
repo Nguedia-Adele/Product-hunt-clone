@@ -1,7 +1,7 @@
 import React from 'react'
 
 import HeaderContainer from './header/HeaderContainer'
-import DiscussionTile from './popular-discussion/DiscussionTile'
+import PopularDiscussions from './popular-discussion/PopularDiscussions'
 
 function App() {
   return (
@@ -9,10 +9,9 @@ function App() {
       <header>
       		<HeaderContainer/>
       </header>
-      <main className="row px-10 pt-5 mx-auto">
-        <div className="col-8"><DiscussionTile/></div>
-        <div className="col-4">side bar</div>
-      	
+      <main className="row px-10 pt-4 mx-auto">
+        <div className="col-8"><PopularDiscussions/></div>
+        <div className="col-4">side bar</div>	
       </main>
     </div>
   );

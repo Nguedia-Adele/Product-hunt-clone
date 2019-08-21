@@ -14,10 +14,26 @@ code {
     monospace;
 }
 
+.bold-text {
+  font-weight: 600;
+}
+
 .px-9 {
 	padding: 0 9%;
 }
 
 .px-10 {
   padding: 0 10%;
+}
+
+.vote-button {
+  border: 1px solid #e8e8e8;
+  background-color: transparent;
+  width: 64px;
+    height:75px;
+    margin-bottom: 10px
+}
+
+.vote-button:hover {
+  background-color: #e9e9e9;
 }

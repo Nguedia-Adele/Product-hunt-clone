@@ -11,8 +11,10 @@ class DiscussionHeader extends React.Component {
 							alt="Maker's name"/>
 					</div>
 				</a>
-				<div>
-					<a href="/maker" className="mx-2 text-dark"><span className="font-weight-bold">Abadesi</span></a>
+				<div className="my-auto">
+					<a href="/maker" className="mx-2 text-dark">
+						<span className="bold-text">Abadesi</span>
+					</a>
 					<span className="mx-2 text-muted">Head of Maker Outreach at Product Hunt</span>
 				</div>
 				<span className="ml-auto text-muted">
